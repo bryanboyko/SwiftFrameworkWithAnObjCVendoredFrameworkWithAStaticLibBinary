@@ -1,0 +1,2 @@
+# SwiftFrameworkWithAnObjCVendoredFrameworkWithAStaticLibBinary
+A swift framework in which cocoapods installed an Objective-C vendored framework, which has the VungleSDK manually linked. The Objective-C framework wraps the Vungle SDK because the Vungle SDK framework has a static lib instead of a normal framework binary. Since there is a static lib instead of a normal framework binary, a Modules folder is not available as it would be for a normal framework.
