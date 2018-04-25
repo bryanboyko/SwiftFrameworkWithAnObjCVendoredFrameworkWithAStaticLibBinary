@@ -1,0 +1,11 @@
+framework module SwiftFrameworkWithObjCVendoredFramework {
+  umbrella header "SwiftFrameworkWithObjCVendoredFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftFrameworkWithObjCVendoredFramework.Swift {
+    header "SwiftFrameworkWithObjCVendoredFramework-Swift.h"
+    requires objc
+}
