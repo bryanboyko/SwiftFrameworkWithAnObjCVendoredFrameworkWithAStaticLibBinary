@@ -10,7 +10,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   ObjCVendoredFramework:
-    :commit: 1ec6567b339dcad9b047af43ee7dadb6e323f18d
+    :commit: 4f683651756a37d7c65ed6025b6ead49249919d5
     :git: "git@github.com:bryanboyko/ObjCVendoredFramework"
 
 SPEC CHECKSUMS:
