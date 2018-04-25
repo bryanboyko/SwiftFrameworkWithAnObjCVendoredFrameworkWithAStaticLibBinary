@@ -1,0 +1,21 @@
+PODS:
+  - ObjCVendoredFramework (1.0.0)
+
+DEPENDENCIES:
+  - "ObjCVendoredFramework (from `git@github.com:bryanboyko/ObjCVendoredFramework`)"
+
+EXTERNAL SOURCES:
+  ObjCVendoredFramework:
+    :git: "git@github.com:bryanboyko/ObjCVendoredFramework"
+
+CHECKOUT OPTIONS:
+  ObjCVendoredFramework:
+    :commit: 1ec6567b339dcad9b047af43ee7dadb6e323f18d
+    :git: "git@github.com:bryanboyko/ObjCVendoredFramework"
+
+SPEC CHECKSUMS:
+  ObjCVendoredFramework: 5a90c21c1cb635c158ee0209244824d9bb7378bf
+
+PODFILE CHECKSUM: 076c2d030b050b9771ad0e59c6d7200cdf32372e
+
+COCOAPODS: 1.5.0
